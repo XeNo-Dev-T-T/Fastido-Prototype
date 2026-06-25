@@ -120,7 +120,6 @@ Payment Successful ✔
 ## 🔮 Future Improvements
 
 * GPS-based driver selection
-* Multiple payment methods (UPI/Card/Cash)
 * Dynamic pricing
 * Ride history
 * Driver ratings
